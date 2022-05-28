@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">java_recycleView_tutorial</string>
+
+
+    <string-array name="carBrands">
+        <item>Audi</item>
+        <item>Honda</item>
+        <item>Lambo</item>
+        <item>Ford</item>
+    </string-array>
+
+
+    <integer-array name="carHorsePower" >
+        <item>120</item>
+        <item>342</item>
+        <item>123</item>
+        <item>666</item>
+
+    </integer-array>
+
+
+
+</resources>
